@@ -8,15 +8,17 @@ Can easily customize the number range.
 # Requirements
 Python 3.x
 # How to Run
-1.Clone the repository:
+# 1.Clone the repository:
 Copy code
 <br>
 git clone https://github.com/your-username/number-guessing-game.git
-2.Navigate to the project folder:
+
+# 2.Navigate to the project folder:
 Copy code
 <br>
 cd main.py
-3.Run the game:
+
+# 3.Run the game:
 Copy code
 <br>
 python main.py
