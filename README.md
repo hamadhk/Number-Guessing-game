@@ -20,11 +20,13 @@ cd main.py
 Copy code
 <br>
 python main.py
+<br>
 # How to Play
 After running the game, the program will ask you to guess a number.
 Type your guess and hit Enter.
 The program will tell you whether your guess is too low, too high, or correct.
 Keep guessing until you find the correct number!
 The game will display how many attempts it took to guess the number.
+<br>
 # Customization
 You can modify the number range and other settings by adjusting the variables in the main.py file.
